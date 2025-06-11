@@ -1,4 +1,4 @@
-# Simple AI Appointment booking Chatbot using Dialogflow
+# Simple AI Appointment booking Chatbot using Dialogflow ES
 
 This is a basic AI chatbot built using Google's Dialogflow ES and deployed on Netlify.
 
