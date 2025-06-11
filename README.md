@@ -1,12 +1,14 @@
-# ApsaraSupportBot 🤖
+# AI Chatbot using Dialogflow
 
-A simple web-based chatbot built using Dialogflow and hosted on Netlify.
+This is a basic AI chatbot built using Google's Dialogflow and deployed on Netlify.
 
-### 🔧 Tech Used:
-- Google Dialogflow
-- Google Cloud Console
-- HTML iFrame
-- GitHub + Netlify
+🔗 [Live Demo](https://stately-malabi-224c8e.netlify.app)
 
-### 🌐 Live Demo:
-[Click here to chat]
+## Features
+- Built with Dialogflow agent and intents
+- HTML embed integration
+- Deployed via GitHub & Netlify
+
+## How to Use
+Just open the site and start chatting!
+
